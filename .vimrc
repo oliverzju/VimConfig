@@ -34,10 +34,8 @@ syntax enable
 set background=dark
 
 "" NERD Tree
-let NERDChristmasTree=0
 let NERDTreeWinSize=35
 let NERDTreeChDirMode=2
-let NERDTreeIgnore=['\~$', '\.pyc$', '\.swp$']
 let NERDTreeShowBookmarks=1
 let NERDTreeWinPos="left"
 " Automatically open a NERDTree
