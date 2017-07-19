@@ -37,6 +37,7 @@ set background=dark
 let NERDTreeWinSize=35
 let NERDTreeChDirMode=2
 let NERDTreeShowBookmarks=1
+let NERDTreeBookmarksSort=0
 let NERDTreeWinPos="left"
 " Automatically open a NERDTree
 autocmd vimenter * NERDTree
