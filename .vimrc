@@ -25,6 +25,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'Lokaltog/vim-powerline'
 Plugin 'scrooloose/nerdtree'
 Plugin 'majutsushi/tagbar'
+Plugin 'vim-scripts/AutoComplPop'
+Plugin 'jiangmiao/auto-pairs'
 
 call vundle#end()
 filetype plugin indent on
